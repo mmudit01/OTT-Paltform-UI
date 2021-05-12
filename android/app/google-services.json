@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "439025337979",
+    "project_id": "shott-app",
+    "storage_bucket": "shott-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439025337979:android:cbb2f85abba4d1ae3344de",
+        "android_client_info": {
+          "package_name": "com.possibillion.shott_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439025337979-fqehocnb1j4653efd54j3g62k1mrgbkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.possibillion.shott_app",
+            "certificate_hash": "a032d052370ce1f2a238f4cfc5287e842b35e95b"
+          }
+        },
+        {
+          "client_id": "439025337979-4mf6blud5c8oi7cmj114r9gkquk377ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvXjOYC4ZozuNPezKFnVukocPk3mm5BFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439025337979-4mf6blud5c8oi7cmj114r9gkquk377ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
